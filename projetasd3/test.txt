@@ -1,0 +1,12 @@
+P3				//ligne 1 : type d'arbre attendues. P3 pour P3Tree, P4 pour PQuadTree
+1000 				//ligne 2 : pour l'image initiale, définie la taille en pixel
+4				//ligne 3 : le nombre de centre
+600, 500, R, G, J, up		//ligne 4 : le 1er centre
+800, 300, G, R, B, left
+850, 350, R, J, R, right
+540, 120, B, R, J, up
+19				//ligne m+3 : l'épaisseur du trait (valeur entière impaire)
+2				//ligne m+4 : le nombre de recoloriage
+570, 250, B			//ligne m+5 : un recoloriage
+300, 12, B
+
